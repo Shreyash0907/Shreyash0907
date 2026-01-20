@@ -9,7 +9,7 @@
 I'm a **M.Tech Computer Science & Engineering** student at **IIT Delhi** with a passion for building scalable systems and advancing machine learning applications. Currently working on large-scale recommendation systems and multi-modal AI models.
 
 - 🔬 **Current Research**: Large-Scale Product Recommendation System for IndiaMART
-- 🎯 **Interests**: Machine Learning, Computer Vision, Distributed Systems
+- 🎯 **Interests**: Machine Learning, Data Structure
 - 🏆 **Achievements**: GATE Rank 170, ICPC Asia West 2023 Regionalist
 - 📚 **Teaching**: Best TA Award recipient for COL100 & COL352 at IIT Delhi
 
